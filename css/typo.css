@@ -1,0 +1,79 @@
+
+
+
+#chap01{
+font-family: bely-display, sans-serif;
+font-style: normal;
+font-weight: 100;
+font-size: 3.8em;
+
+}
+
+
+p {
+font-family: poiret-one, sans-serif;
+font-style: normal;
+font-weight: 1000;
+font-size: 1em;
+
+}
+
+
+.bloc1 {
+  font-family: poiret-one, sans-serif;
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 1.9em;
+
+}
+
+.bloc2 {
+  font-family: acier-bat-solid, sans-serif;
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 1.8em;
+
+}
+
+.bloc3 {
+  font-family: bely, sans-serif;
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 1.8em;
+  text-decoration-line: underline;
+}
+
+.bloc4 {
+
+  font-family: bely-display, sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  transform: rotate(90deg);
+  font-size: 1.4em;
+
+  }
+
+
+  .bloc5 {
+    font-family: acier-bat-solid, sans-serif;
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 1.2em;
+
+}
+
+.bloc6{
+
+font-family: bely-display, sans-serif;
+font-style: normal;
+font-weight: 100;
+font-size: 2em;
+
+}
+
+.large-texte p {
+  font-family: acier-bat-solid, sans-serif;
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 1.8em;
+}
